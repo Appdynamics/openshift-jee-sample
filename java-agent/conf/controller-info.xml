@@ -76,7 +76,7 @@
     <account-name>customer1</account-name>
     <!-- This can be overridden with an environment variable 'APPDYNAMICS_AGENT_ACCOUNT_ACCESS_KEY' or
     the system property '-Dappdynamics.agent.accountAccessKey' -->
-    <account-access-key>bdd45c9e-a897-4792-872d-46aaa1dc461b</account-access-key>
+    <account-access-key>18d68a61-ac47-4a53-8e73-c0a38dcbbb2c</account-access-key>
 
     <!-- Change to 'true' only under special circumstances where this agent has been moved to a new application and/or tier
     from the UI but you want to override that move by specifying a new application name and/or tier name in the agent configuration. -->
